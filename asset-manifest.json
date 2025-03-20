@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Huma-brc/static/css/main.21351783.css",
-    "main.js": "/Huma-brc/static/js/main.43fcfe40.js",
+    "main.css": "/Huma-brc/static/css/main.2ab44df2.css",
+    "main.js": "/Huma-brc/static/js/main.1a72f076.js",
     "static/js/453.2c440dc0.chunk.js": "/Huma-brc/static/js/453.2c440dc0.chunk.js",
     "static/media/porta.jpg": "/Huma-brc/static/media/porta.2479fd20b64c5c4c3040.jpg",
     "static/media/tazas.jpg": "/Huma-brc/static/media/tazas.7787350b70c929f223a1.jpg",
@@ -9,14 +9,15 @@
     "static/media/hornitos.jpg": "/Huma-brc/static/media/hornitos.0167f433829c5d82b72b.jpg",
     "static/media/platos.jpg": "/Huma-brc/static/media/platos.618855464465b0994b3d.jpg",
     "static/media/platobowl.jpg": "/Huma-brc/static/media/platobowl.69e86ba8725a39318379.jpg",
+    "static/media/what.webp": "/Huma-brc/static/media/what.a12c832d8622dfcfb8c8.webp",
     "static/media/logo.svg": "/Huma-brc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Huma-brc/index.html",
-    "main.21351783.css.map": "/Huma-brc/static/css/main.21351783.css.map",
-    "main.43fcfe40.js.map": "/Huma-brc/static/js/main.43fcfe40.js.map",
+    "main.2ab44df2.css.map": "/Huma-brc/static/css/main.2ab44df2.css.map",
+    "main.1a72f076.js.map": "/Huma-brc/static/js/main.1a72f076.js.map",
     "453.2c440dc0.chunk.js.map": "/Huma-brc/static/js/453.2c440dc0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21351783.css",
-    "static/js/main.43fcfe40.js"
+    "static/css/main.2ab44df2.css",
+    "static/js/main.1a72f076.js"
   ]
 }
