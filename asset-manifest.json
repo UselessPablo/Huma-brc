@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/Huma-brc/static/css/main.f3c4cb48.css",
-    "main.js": "/Huma-brc/static/js/main.f5f339e6.js",
+    "main.css": "/Huma-brc/static/css/main.fa2c140d.css",
+    "main.js": "/Huma-brc/static/js/main.33b42430.js",
     "static/js/453.2c440dc0.chunk.js": "/Huma-brc/static/js/453.2c440dc0.chunk.js",
     "static/media/varios.jpg": "/Huma-brc/static/media/varios.6170ca440fe4c413daa9.jpg",
     "static/media/portas.jpg": "/Huma-brc/static/media/portas.6d394ef23308573c9ad7.jpg",
+    "static/media/taza.jpg": "/Huma-brc/static/media/taza.586e139ed6be60f81e6f.jpg",
     "static/media/varios2.jpg": "/Huma-brc/static/media/varios2.4044844f31c4516b407a.jpg",
     "static/media/platos2.jpg": "/Huma-brc/static/media/platos2.0e04075c4627a596ce2c.jpg",
+    "static/media/taza2.jpg": "/Huma-brc/static/media/taza2.31bba60fb5c2b4bb8266.jpg",
+    "static/media/taza3.jpg": "/Huma-brc/static/media/taza3.c26f4e3d64777fc658ec.jpg",
     "static/media/mate.jpg": "/Huma-brc/static/media/mate.06771a73e9e75b97ace4.jpg",
     "static/media/matess.jpg": "/Huma-brc/static/media/matess.1ecc65c99c1ef586d740.jpg",
     "index.html": "/Huma-brc/index.html",
-    "main.f3c4cb48.css.map": "/Huma-brc/static/css/main.f3c4cb48.css.map",
-    "main.f5f339e6.js.map": "/Huma-brc/static/js/main.f5f339e6.js.map",
+    "main.fa2c140d.css.map": "/Huma-brc/static/css/main.fa2c140d.css.map",
+    "main.33b42430.js.map": "/Huma-brc/static/js/main.33b42430.js.map",
     "453.2c440dc0.chunk.js.map": "/Huma-brc/static/js/453.2c440dc0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3c4cb48.css",
-    "static/js/main.f5f339e6.js"
+    "static/css/main.fa2c140d.css",
+    "static/js/main.33b42430.js"
   ]
 }
