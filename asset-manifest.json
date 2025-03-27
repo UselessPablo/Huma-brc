@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Huma-brc/static/css/main.2a5cb541.css",
+    "main.css": "/Huma-brc/static/css/main.fe246a92.css",
     "main.js": "/Huma-brc/static/js/main.bc21c2b3.js",
     "static/js/453.2c440dc0.chunk.js": "/Huma-brc/static/js/453.2c440dc0.chunk.js",
     "static/media/varios.jpg": "/Huma-brc/static/media/varios.6170ca440fe4c413daa9.jpg",
@@ -10,12 +10,12 @@
     "static/media/mate.jpg": "/Huma-brc/static/media/mate.06771a73e9e75b97ace4.jpg",
     "static/media/matess.jpg": "/Huma-brc/static/media/matess.1ecc65c99c1ef586d740.jpg",
     "index.html": "/Huma-brc/index.html",
-    "main.2a5cb541.css.map": "/Huma-brc/static/css/main.2a5cb541.css.map",
+    "main.fe246a92.css.map": "/Huma-brc/static/css/main.fe246a92.css.map",
     "main.bc21c2b3.js.map": "/Huma-brc/static/js/main.bc21c2b3.js.map",
     "453.2c440dc0.chunk.js.map": "/Huma-brc/static/js/453.2c440dc0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a5cb541.css",
+    "static/css/main.fe246a92.css",
     "static/js/main.bc21c2b3.js"
   ]
 }
